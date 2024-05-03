@@ -1,0 +1,17 @@
+ 6/5 come consegna voglio il link e il jar file dell'eseguibile
+
+//siete una software house e venite incaricati di sviluppare un autonoleggio. questo autonoleggio presenta due attori:
+ il manager che può inserire auto 
+//e rimuoverle (e anche effettuare ricerche)
+//e il cliente: il cliente può noleggiare un'auto 
+//(quindi ci sarà uno stato noleggiata a true o false), 
+//effettuare una ricerca per prezzo o per nome auto. 
+//una volta che un'auto è noleggiata fino a quando non si restituisce
+//non può essere noleggiata da qualcun altro.
+// il twist: in realtà questo autonoleggio 
+//è una base segreta di batman e inserendo il suo nome 
+//e una password compare la batmobile che non è visibile a nessun altro. Batman può aggiungere o rimuovere nuove batmobili.
+
+
+auto: modello - prezzo - tipo(b/n) - quantità - data - inizio - durate
+utenti: user - pass - generalità - flag (c,m,b) 
